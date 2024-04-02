@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **chad.breeden85@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VQk7Lv9WLM2hIlr9-JSP-E5dgiabasNW/view?usp=sharing](https://drive.google.com/file/d/1VQk7Lv9WLM2hIlr9-JSP-E5dgiabasNW/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1VQk7Lv9WLM2hIlr9-JSP-E5dgiabasNW/view?usp=sharing](https://drive.google.com/file/d/1VQk7Lv9WLM2hIlr9-JSP-E5dgiabasNW/view?usp=sharing)](https://drive.google.com/file/d/1FnFjOSpYubPkLVi1urbD1Ia_M75BsfBM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
