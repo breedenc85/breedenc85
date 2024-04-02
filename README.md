@@ -33,6 +33,22 @@
 
 # ☁ Salesforce Credentials
 
+<div align="center">
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu5&oid=00DF0000000gZsu&lastMod=1617267801000" height="100" alt="Administrator"/>  
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtl&oid=00DF0000000gZsu&lastMod=1617268490000" height="100" alt="Platform App Builder"/>
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtm&oid=00DF0000000gZsu&lastMod=1617268326000" height="100" alt="Sales Cloud Consultant"/>
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtn&oid=00DF0000000gZsu&lastMod=1617268355000" height="100" alt="Service Cloud Consultant"/>
+
+</div>
+
+<div align="center">
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu4&oid=00DF0000000gZsu&lastMod=1617275568000" height="100" alt="Experience Cloud Consultant"/>  
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k000008zZI2&oid=00DF0000000gZsu&lastMod=1662618561000" height="100" alt="Associate"/>
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000BEqgH&oid=00DF0000000gZsu&lastMod=1693557495000" height="100" alt="AI Associate"/>
+
+</div>
+
+
 # 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=breedenc85&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
