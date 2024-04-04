@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Apex programming, triggers, SOQL, LWC, debugging and testing** through [Cloud Code Academy](https://cloudcodeacademy.com)
 
-- 📫 How to reach me **chad.breeden85@gmail.com**
-
 - 🏅 [7x Salesforce Certified](https://www.salesforce.com/trailblazer/chadbreeden)
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1FnFjOSpYubPkLVi1urbD1Ia_M75BsfBM/view?usp=sharing
+
+- 📫 How to reach me **chad.breeden85@gmail.com**
 
 # ⚙ Salesforce Technologies
 <table width="100%" style="border:0px;">
